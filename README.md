@@ -10,6 +10,6 @@
   - [optimizer](https://github.com/DongDong-Zoez/pytorchAI/blob/main/torch/optimizer.ipynb)
 - CNN tasks
   - [CIFAR-10-classification](https://github.com/DongDong-Zoez/pytorchAI/blob/main/CNN/CIFAR-10-classification.ipynb)
-  - [Federated Learning](https://github.com/DongDong-Zoez/pytorchAI/blob/main/CNN/Federated Learning.ipynb)
+  - [Federated Learning](https://github.com/DongDong-Zoez/pytorchAI/blob/main/CNN/Federated%20Learning.ipynb)
   - [Segmentation](https://github.com/DongDong-Zoez/pytorchAI/blob/main/CNN/Segmentation.ipynb)
-  - [model architecture](https://github.com/DongDong-Zoez/pytorchAI/blob/main/CNN/model architecture.ipynb)
+  - [model architecture](https://github.com/DongDong-Zoez/pytorchAI/blob/main/CNN/model%20architecture.ipynb)
