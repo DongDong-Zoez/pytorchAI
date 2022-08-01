@@ -13,3 +13,5 @@
   - [Federated Learning](https://github.com/DongDong-Zoez/pytorchAI/blob/main/CNN/Federated%20Learning.ipynb)
   - [Segmentation](https://github.com/DongDong-Zoez/pytorchAI/blob/main/CNN/Segmentation.ipynb)
   - [model architecture](https://github.com/DongDong-Zoez/pytorchAI/blob/main/CNN/model%20architecture.ipynb)
+- ExplainableAI
+  - [Gram-CAM](https://github.com/DongDong-Zoez/pytorchAI/blob/main/ExplainableAI/GramCAM.ipynb)
