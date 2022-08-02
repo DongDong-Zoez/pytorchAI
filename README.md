@@ -15,3 +15,5 @@
   - [model architecture](https://github.com/DongDong-Zoez/pytorchAI/blob/main/CNN/model%20architecture.ipynb)
 - ExplainableAI
   - [Gram-CAM](https://github.com/DongDong-Zoez/pytorchAI/blob/main/ExplainableAI/GramCAM.ipynb)
+- CRFs
+  - [ConvCRFs](https://github.com/DongDong-Zoez/pytorchAI/blob/main/CRFs/CRFs.ipynb)
