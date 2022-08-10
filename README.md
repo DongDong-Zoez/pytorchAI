@@ -18,4 +18,4 @@
 - CRFs
   - [ConvCRFs](https://github.com/DongDong-Zoez/pytorchAI/blob/main/CRFs/CRFs.ipynb)
 - FSL
-  - [Siamese](https://github.com/DongDong-Zoez/pytorchAI/blob/main/FSL/Few-Shot_Learnings.ipynb)
+  - [Siamese](https://github.com/DongDong-Zoez/pytorchAI/blob/main/FSL/Few-shot_learnings.ipynb)
