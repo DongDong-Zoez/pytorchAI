@@ -19,3 +19,6 @@
   - [ConvCRFs](https://github.com/DongDong-Zoez/pytorchAI/blob/main/CRFs/CRFs.ipynb)
 - FSL
   - [Siamese](https://github.com/DongDong-Zoez/pytorchAI/blob/main/FSL/Few_shot_learning.ipynb)
+- GAN
+  - [GAN](https://github.com/DongDong-Zoez/pytorchAI/blob/main/GAN/GAN.ipynb)
+  - [DCGAN](https://github.com/DongDong-Zoez/pytorchAI/blob/main/GAN/DCGAN.ipynb)
