@@ -25,3 +25,5 @@
   - [SRGAN](https://github.com/DongDong-Zoez/pytorchAI/blob/main/GAN/SRGAN.ipynb)
 - Transformer
   - [Attention is all you need](https://github.com/DongDong-Zoez/pytorchAI/blob/main/Transformer/Transformer.ipynb)
+- Semi-supervised
+  - [Noisy Student](https://github.com/DongDong-Zoez/pytorchAI/blob/main/semi-supervised/Noisy Student.ipynb)
