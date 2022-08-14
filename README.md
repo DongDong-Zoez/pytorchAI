@@ -23,3 +23,5 @@
   - [GAN](https://github.com/DongDong-Zoez/pytorchAI/blob/main/GAN/GAN.ipynb)
   - [DCGAN](https://github.com/DongDong-Zoez/pytorchAI/blob/main/GAN/DCGAN.ipynb)
   - [SRGAN](https://github.com/DongDong-Zoez/pytorchAI/blob/main/GAN/SRGAN.ipynb)
+- Transformer
+  - [Attention](https://github.com/DongDong-Zoez/pytorchAI/blob/main/Transformer/Transformer.ipynb)
