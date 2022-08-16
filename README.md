@@ -25,5 +25,7 @@
   - [SRGAN](https://github.com/DongDong-Zoez/pytorchAI/blob/main/GAN/SRGAN.ipynb)
 - Transformer
   - [Attention is all you need](https://github.com/DongDong-Zoez/pytorchAI/blob/main/Transformer/Transformer.ipynb)
+  - [ViT](https://github.com/DongDong-Zoez/pytorchAI/blob/main/Transformer/ViT.ipynb)
+  - [Swin Transformer]https://github.com/DongDong-Zoez/pytorchAI/blob/main/Transformer/Swin.ipynb
 - Semi-supervised
   - [Noisy Student](https://github.com/DongDong-Zoez/pytorchAI/blob/main/semi-supervised/Noisy_Student.ipynb)
